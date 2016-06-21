@@ -1,0 +1,5 @@
+D:\WorkArea\2.SSO\3.AESSSO\Testing\C#\AESC#\SSOApp\bin\SSOApp.dll
+D:\WorkArea\2.SSO\3.AESSSO\Testing\C#\AESC#\SSOApp\bin\SSOApp.pdb
+D:\WorkArea\2.SSO\3.AESSSO\Testing\C#\AESC#\SSOApp\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkArea\2.SSO\3.AESSSO\Testing\C#\AESC#\SSOApp\obj\Debug\SSOApp.dll
+D:\WorkArea\2.SSO\3.AESSSO\Testing\C#\AESC#\SSOApp\obj\Debug\SSOApp.pdb

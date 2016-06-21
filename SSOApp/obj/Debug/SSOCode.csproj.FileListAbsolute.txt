@@ -1,0 +1,16 @@
+D:\WorkArea\2.SSO\3.AESSSO\Testing\C#\AESC#\SSOApp\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkArea\2.SSO\3.AESSSO\Testing\C#\AESC#\SSOApp\obj\Debug\SSOApp.dll
+D:\WorkArea\2.SSO\3.AESSSO\Testing\C#\AESC#\SSOApp\obj\Debug\SSOApp.pdb
+D:\WorkArea\2.SSO\3.AESSSO\Testing\C#\AESC#\SSOApp\bin\SSOApp.dll
+D:\WorkArea\2.SSO\3.AESSSO\Testing\C#\AESC#\SSOApp\bin\SSOApp.pdb
+D:\WorkArea\2.SSO\3.AESSSO\Testing\pasona\pasona_Stage\SSOApp\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkArea\2.SSO\3.AESSSO\Testing\pasona\pasona_Stage\SSOApp\obj\Debug\SSOApp.dll
+D:\WorkArea\2.SSO\3.AESSSO\Testing\pasona\pasona_Stage\SSOApp\bin\SSOApp.dll
+D:\WorkArea\2.SSO\3.AESSSO\Testing\pasona\pasona_Stage\SSOApp\bin\SSOApp.pdb
+D:\WorkArea\2.SSO\3.AESSSO\Testing\pasona\pasona_Stage\SSOApp\obj\Debug\SSOApp.pdb
+D:\OneDrive - Unicer Bebidas, S.A\Projectos\Outros\E-Learning\SSO\CSHARP_pilot\unicer_Pilot\SSOApp\bin\SSOApp.dll.config
+D:\OneDrive - Unicer Bebidas, S.A\Projectos\Outros\E-Learning\SSO\CSHARP_pilot\unicer_Pilot\SSOApp\bin\SSOApp.dll
+D:\OneDrive - Unicer Bebidas, S.A\Projectos\Outros\E-Learning\SSO\CSHARP_pilot\unicer_Pilot\SSOApp\bin\SSOApp.pdb
+D:\OneDrive - Unicer Bebidas, S.A\Projectos\Outros\E-Learning\SSO\CSHARP_pilot\unicer_Pilot\SSOApp\obj\Debug\SSOCode.csprojResolveAssemblyReference.cache
+D:\OneDrive - Unicer Bebidas, S.A\Projectos\Outros\E-Learning\SSO\CSHARP_pilot\unicer_Pilot\SSOApp\obj\Debug\SSOApp.dll
+D:\OneDrive - Unicer Bebidas, S.A\Projectos\Outros\E-Learning\SSO\CSHARP_pilot\unicer_Pilot\SSOApp\obj\Debug\SSOApp.pdb
